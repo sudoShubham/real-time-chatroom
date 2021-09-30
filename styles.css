@@ -3,10 +3,17 @@
 }
 .btn {
   background: #43d9be;
-  color: rgb(255, 255, 255);
+  color: white;
   outline: none !important;
   box-shadow: none !important;
 }
 .btn:focus {
   outline: none !important;
+}
+.username {
+  font-weight: bold;
+}
+.time {
+  font-size: 0.7em;
+  color: #999;
 }
